@@ -1,5 +1,5 @@
 identidock:
-  build: .
+  # build: .
   expose:
    - "9090"
   environment:
